@@ -1,0 +1,16 @@
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/example_leak.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/example_leak_array.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/example_leak_exception.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/example_leak_raii.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/example_leak_fds.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/test.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/edit_cache.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/CMakeFiles/rebuild_cache.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/CMakeFiles/kernel-resource.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/CMakeFiles/test.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/CMakeFiles/edit_cache.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/CMakeFiles/rebuild_cache.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/tests/CMakeFiles/test_kernel_resource.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/tests/CMakeFiles/test.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/tests/CMakeFiles/edit_cache.dir
+/home/h20/Documents/VSC/Paro/memory-management-2024-exercises/memory-management/exercises/build/resources/tests/CMakeFiles/rebuild_cache.dir
