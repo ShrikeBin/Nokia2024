@@ -11,6 +11,15 @@ struct Logger
         std::fputs("Starting logger...\n", logfile);
     }
 
+    ~Logger()
+    {
+        if (logfile) 
+        {
+            std::fputs("Closing logger...\n", logfile);
+            std::fclose(logfile);
+        }
+    }
+
     Logger(const Logger& other) = delete;
     Logger& operator=(const Logger& other) = delete;
 
