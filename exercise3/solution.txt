@@ -2,7 +2,7 @@
 
 > As a prisoner, I can't move
 
-> As a 
+> As a person, I can't
 
 
 > GIVEN You lose
