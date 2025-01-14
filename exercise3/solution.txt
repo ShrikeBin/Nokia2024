@@ -1,0 +1,18 @@
+
+
+
+> GIVEN You lose
+>WHEN I don't have money
+THEN You are sad
+
+> GIVEN The game started
+> WHEN It's my turn
+> THEN I can roll dice
+
+> GIVEN Go to jail card
+> WHEN I have a Bail Out card
+> THEN I can not go to jail
+
+> GIVEN You buy a house
+> WHEN You are in 
+

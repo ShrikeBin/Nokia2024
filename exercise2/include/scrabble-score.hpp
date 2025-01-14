@@ -1,0 +1,1 @@
+unsigned int scrabbleScore(std::string word);
